@@ -4,7 +4,8 @@
     <img src="images/image1.png" width='700'/>
   </div>
 </a>
-A short search engine to search for most relevent Corona Virus research papers published on the internet.Deployed app here(http://covid-19-search.herokuapp.com/)
+A short search engine to search for most relevent Corona Virus research papers published on the internet.[Live app here] (http://covid-19-search.herokuapp.com/)
+
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Visual-and-EDA-of-Corona-Virus.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/saadhaxxan/Covid-19-Search/fork)
@@ -21,6 +22,21 @@ Search engine for bibliography related to covid-19 from:
 pip install -r requirements.txt
 python app.py
 ```
+
+## Working Demo
+<a href="#">
+  <div align="center">
+    <img src="images/image2.png" width='700'/>
+  </div>
+</a>
+
+## Data Provided
+- Title of Paper
+- Abstract of Paper
+- Authors
+- Doi url
+
+
 ## Deployment on heroku
 
 ```
