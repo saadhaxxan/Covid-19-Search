@@ -16,6 +16,10 @@ A short search engine to search for most relevent Corona Virus research papers p
 Search engine for bibliography related to covid-19 from: 
 - COVID-19 Open Research Dataset (CORD-19). 2020. Version 2020-03-13. Retrieved from https://pages.semanticscholar.org/coronavirus-research. Accessed 2020-03-23. doi:10.5281/zenodo.3715506
 
+Part of this code is completely based on the contributions of @josehezaro on github:
+
+https://github.com/joseherazo04/Covid19-SearchEngine
+
 # Installation
 
 ```
