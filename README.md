@@ -4,7 +4,7 @@
     <img src="images/image1.png" width='700'/>
   </div>
 </a>
-A short search engine to search for most relevent Corona Virus research papers published on the internet.[Visit Live app](http://covid-19-search.herokuapp.com/)
+A short search engine to search for most relevent Corona Virus research papers published on the internet.[Visit Live app](https://covid-19-search.herokuapp.com)
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
